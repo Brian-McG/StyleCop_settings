@@ -1,2 +1,2 @@
 # StyleCop Settings
-Personal settings for style cop in conjunction with Unity
+Personal settings for StyleCop in conjunction with Unity
